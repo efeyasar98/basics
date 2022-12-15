@@ -1,6 +1,6 @@
 print("""
 ********************
-Wellcome To The User Panel
+Welcome To The User Panel
 ********************
 """)
 
